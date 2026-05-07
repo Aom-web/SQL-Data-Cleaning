@@ -11,9 +11,19 @@ Donwload Here [https://www.kaggle.com/datasets/marvyaymanhalim/student-performan
 
 ### 1. Table creation and data import
 
+
 https://github.com/user-attachments/assets/f319d291-a730-491a-beec-f0bf240a473c
 
+
+
 ### 2. Cleaning the entries of the table
+
+
+https://github.com/user-attachments/assets/ba284756-deb7-4901-8ada-a9f5ec4161cf
+
+### 3. Cleaning the date and altering the date type
+
+
 
 
 
