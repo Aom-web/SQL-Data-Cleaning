@@ -33,6 +33,9 @@ https://github.com/user-attachments/assets/6653c70c-245d-497c-b2fc-ba091925177d
 
 ### Cleaned data
 
+[cleaned data.zip](https://github.com/user-attachments/files/27488518/cleaned.data.zip)
+
+
 
 
 
