@@ -7,7 +7,7 @@ This project demonstrates a detailed SQL data cleaning process using a raw suden
 SQL
 
 ### Data Used
-Donwload Here [https://www.kaggle.com/datasets/marvyaymanhalim/student-performance-and-attendance-dataset]
+Donwload Here [[messy data.zip](https://github.com/user-attachments/files/27488667/messy.data.zip)]
 
 ### 1. Table creation and data import
 
